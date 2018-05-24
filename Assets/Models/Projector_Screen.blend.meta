@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: ba365e34358d09146bcb9aac329ba929
+timeCreated: 1526686118
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BezierCurve
+    100004: Curve_Plane
+    100006: Curve_Plane_APPLIED
+    100008: Project_Plane_with_sub_Div
+    100010: Projection_Plane_with_curved_corners
+    100012: Curve_Plane_APPLIED__square
+    100014: Square_Projector_Applied
+    100016: BezierCurve_for_screen
+    100018: BezierCurve_Projector_Screen
+    100020: Square_Projector_Applied_works
+    400000: //RootNode
+    400002: BezierCurve
+    400004: Curve_Plane
+    400006: Curve_Plane_APPLIED
+    400008: Project_Plane_with_sub_Div
+    400010: Projection_Plane_with_curved_corners
+    400012: Curve_Plane_APPLIED__square
+    400014: Square_Projector_Applied
+    400016: BezierCurve_for_screen
+    400018: BezierCurve_Projector_Screen
+    400020: Square_Projector_Applied_works
+    2100000: unnamed
+    2300000: //RootNode
+    2300002: BezierCurve
+    2300004: Curve_Plane
+    2300006: Curve_Plane_APPLIED
+    2300008: Project_Plane_with_sub_Div
+    2300010: Projection_Plane_with_curved_corners
+    2300012: Curve_Plane_APPLIED__square
+    2300014: Square_Projector_Applied
+    2300016: BezierCurve_for_screen
+    2300018: BezierCurve_Projector_Screen
+    2300020: Square_Projector_Applied_works
+    3300000: //RootNode
+    3300002: BezierCurve
+    3300004: Curve_Plane
+    3300006: Curve_Plane_APPLIED
+    3300008: Project_Plane_with_sub_Div
+    3300010: Projection_Plane_with_curved_corners
+    3300012: Curve_Plane_APPLIED__square
+    3300014: Square_Projector_Applied
+    3300016: BezierCurve_for_screen
+    3300018: BezierCurve_Projector_Screen
+    3300020: Square_Projector_Applied_works
+    4300000: Projection_Screen
+    4300002: BezierCurve
+    4300004: Curve_Plane_APPLIED
+    4300006: Curve_Plane
+    4300008: Project_Plane_with_sub_Div
+    4300010: Projection_Plane_with_curved_corners
+    4300012: Curve_Plane_APPLIED__square
+    4300014: Square_Projector_Applied
+    4300016: BezierCurve_Projector_Screen
+    4300018: BezierCurve_for_screen
+    4300020: Square_Projector_Applied_works
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
