@@ -4,15 +4,12 @@ using UnityEngine;
 
 public class Player_Movement : MonoBehaviour {
 
-    public float ForwardSpeed = 4.5f;
-    
-    // Use this for initialization
-    void Start () {
-		
-	}
+    private float forwardSpeed;
 	
 	// Update is called once per frame
-	void Update () {
-        transform.Translate(Vector3.forward * Time.deltaTime * ForwardSpeed);
+	void Update ()
+    {
+        forwardSpeed = Network_Client.forwardSpeed;
+        transform.Translate(Vector3.forward * Time.deltaTime * forwardSpeed);
     }
 }

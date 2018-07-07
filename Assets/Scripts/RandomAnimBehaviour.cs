@@ -7,7 +7,7 @@ public class RandomAnimBehaviour : StateMachineBehaviour {
     public void OnStateMachineEnter(Animator animator, int stateMachinePathHash)
     {
 
-        animator.SetInteger("idleAnimID", Random.Range(0, 5));
+        animator.SetInteger("idleAnimID", Random.Range(0, 6));
 
     }
 
