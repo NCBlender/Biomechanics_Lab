@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class Player_Movement : MonoBehaviour {
 
-    private float forwardSpeed;
+    private double forwardSpeed;
 	
 	// Update is called once per frame
 	void Update ()
     {
-        forwardSpeed = Network_Client.forwardSpeed;
-        transform.Translate(Vector3.forward * Time.deltaTime * forwardSpeed);
+        forwardSpeed = InputUDP.forwardSpeed;
+        transform.Translate(Vector3.forward * Time.deltaTime * (float)forwardSpeed);
     }
 }
